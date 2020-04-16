@@ -1,6 +1,6 @@
 # Pyspark notebook
 
-This is a base centos image with spark
+This is a base centos image with spark.
 
 ## Notes
 The propose of this image is to be used with the spark operator
